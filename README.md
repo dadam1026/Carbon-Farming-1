@@ -4,7 +4,7 @@
 Motivation
 "Control oil and you control nations; control food and you control people." - Henry Kissinger
         As the population grows, so will the demand for food
-        Food and nature emit 14 out of 59 Gigatons of carbon, so sustainable food systems and agricultural practices are needed to ajust what we eat and how we grow our foood
+        Food and nature emit 14 out of 59 Gigatons of carbon, so sustainable food systems and agricultural practices are needed to ajust what we eat, how we grow our food, and even waste it, and protect nature nature
         To curate a tailored, sustainable agricultural practice youe must measure your carbon footprint, analyze your emissions, and execute on meaninful reductions
         
         
