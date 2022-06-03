@@ -9,4 +9,8 @@ Motivation
         
         
 This project aims to take time-lapsed, satellite imagery from areas undergoing deforestation across the globe to measure its carbon footprint. First we meaure the % of green land at each timestamp, 1985, 1995, 2005, 2015, and 2020 to conduct cover crop analysis. Next we measure surface roughness at each timestamp to perform conservation tillage verififcation. This monitors soil disturbance which causes the soil's carbon to be released into the atmosphere. Lastly, for the geopgraphic region being analyzed, we use images of the vegetation and livestock unique to that region to further study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
+
+A compounding problem
+Investing in the now and the new
+Green discount instead of green premium
         
