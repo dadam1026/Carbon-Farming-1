@@ -13,4 +13,4 @@ This project aims to take time-lapsed, satellite imagery from areas undergoing d
 A compounding problem
 Investing in the now and the new
 Green discount instead of green premium
-        
+the right outcome must be the profitable outcome to be the probable outcome
