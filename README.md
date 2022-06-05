@@ -34,5 +34,11 @@ To prototype our idea, we took timelapsed deforestation images from Google Earth
 we then used a pre-trained ResNNet-50 modelto generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
 
 
+Further Improvements
+Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
+
+Further refine our methodoology for quantitfying carbon footprint
+ 
+
 
 
