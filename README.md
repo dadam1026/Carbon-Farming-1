@@ -8,7 +8,7 @@ Motivation
         To curate a tailored, sustainable agricultural practice youe must measure your carbon footprint, analyze your emissions, and execute on meaninful reductions
         
         
-This project aims to take time-lapsed, satellite imagery from areas undergoing deforestation across the globe to measure its carbon footprint. First we meaure the % of green land at each timestamp, 1985, 1995, 2005, 2015, and 2020 to conduct cover crop analysis. Next we measure surface roughness at each timestamp to perform conservation tillage verififcation. This monitors soil disturbance which causes the soil's carbon to be released into the atmosphere. Lastly, for the geopgraphic region being analyzed, we use images of the vegetation and livestock unique to that region to further study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
+This project aims to take time-lapsed, satellite imagery from areas undergoing deforestation across the globe to measure its carbon footprint. First we meaure the % of green land at each timestamp, 1985, 1995, 2005, 2015, and 2020 to conduct cover crop analysis. Next we measure surface roughness at each timestamp to perform conservation tillage verififcation. This monitors soil disturbance which causes the soil's carbon to be released into the atmosphere. Lastly, for the geopgraphic region being analyzed, we use images of the vegetation and livestock unique to the input area to further study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
 
 A compounding problem
 Investing in the now and the new
@@ -23,4 +23,16 @@ take movements to create action
 
 
 Getting Started
-We created a protoype for users to upload a zipped folder with an image to measure its carbon footprint. The output will be a dashboard reporting the emissions statistics and further analysis. 
+We created a protoype for users to upload a zipped folder with an image to measure its carbon footprint. The output will be a dashboard reporting the emissions statistics and further analysis. You can run the demo app with:
+$ streamlit run app.py
+
+Here is a demonstration of the app:
+
+Data Sourcing & Processing
+To prototype our idea, we took timelapsed deforestation images from Google Earth Engine of Rondonia, Brazil, Nuflo de Chavez, Brazil, Toliara annd Saint Augustin, Madagascar, and Olam Farm in Nigeria. We strived for geographic diveristy and looked for changes in sustainable practices over time. 
+
+we then used a pre-trained ResNNet-50 modelto generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
+
+
+
+
