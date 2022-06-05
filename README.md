@@ -15,3 +15,12 @@ Investing in the now and the new
 Green discount instead of green premium
 the right outcome must be the profitable outcome to be the probable outcome
 "We don't inherit the world from our ancestors. We are borrowing it from our children."
+don't fall in either/or (the tyanny of or). need the harmony of "and"
+take movements to create action
+4 levers to pull on:
+1) innovation 2) policy 3)activist 4)investing
+
+
+
+Getting Started
+We created a protoype for users to upload a zipped folder with an image to measure its carbon footprint. The output will be a dashboard reporting the emissions statistics and further analysis. 
