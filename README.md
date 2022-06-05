@@ -36,7 +36,7 @@ we then used a pre-trained ResNNet-50 modelto generate numerical values for meas
 
 Further Improvements
 Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
-
+Further expand geographic reach and types of veegatation and livestock being analyzed
 Further refine our methodoology for quantitfying carbon footprint
  
 
