@@ -31,7 +31,7 @@ Here is a demonstration of the app:
 Data Sourcing & Processing
 To prototype our idea, we took timelapsed deforestation images from Google Earth Engine of Rondonia, Brazil, Nuflo de Chavez, Brazil, Toliara annd Saint Augustin, Madagascar, and Olam Farm in Nigeria. We strived for geographic diveristy and looked for changes in sustainable practices over time. 
 
-we then used a pre-trained ResNNet-50 modelto generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
+we then used a pre-trained ResNet-50 model to generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
 
 
 Further Improvements
