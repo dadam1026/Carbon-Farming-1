@@ -26,6 +26,8 @@ Getting Started
 We created a protoype for users to upload a zipped folder with an image to measure its carbon footprint. The output will be a dashboard reporting the emissions statistics and further analysis. You can run the demo app with:
 $ streamlit run app.py
 
+
+
 Here is a demonstration of the app:
 
 Data Sourcing & Processing
@@ -39,6 +41,9 @@ Use more sophisticated and nuanced datasets for training and testing, such as th
 Further expand geographic reach and types of veegatation and livestock being analyzed
 Further refine our methodoology for quantitfying carbon footprint
  
+ 
+Conclusion:
+Helping farmers adapt to climate change is way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to stop mititgate climate's deleterious effects. Work done by CGIAR Climate-smart agriculture research helps smallholder farmers in the developing world. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
 
 
 
