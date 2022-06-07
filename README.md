@@ -40,7 +40,7 @@ Further Improvements
 Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
 Further expand geographic reach and types of veegatation and livestock being analyzed
 Further refine our methodoology for quantitfying carbon footprint
-Can callobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides ad genetically modified crops), Syngeta, Corteva Argiscience (the agricultural uit of DowDuPont), satellite imagery providers, and universities pioneerig research in agricultural biotechnology.
+Can callobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides ad genetically modified crops), Syngeta (a subsidiary of China National Chemical), Corteva Argiscience (the agricultural uit of DowDuPont), satellite imagery providers, and universities pioneerig research in agricultural biotechnology.
  
  
 Conclusion:
