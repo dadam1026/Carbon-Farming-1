@@ -33,6 +33,8 @@ Here is a demonstration of the app:
 Data Sourcing & Processing
 To prototype our idea, we took timelapsed deforestation images from Google Earth Engine of Rondonia, Brazil, Nuflo de Chavez, Brazil, Toliara annd Saint Augustin, Madagascar, Olam Farm in Nigeria . We strived for geographic diveristy and looked for changes in sustainable practices over time. 
 
+*Fishery Pollution
+
 we then used a pre-trained ResNet-50 model to generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
 
 
@@ -41,6 +43,9 @@ Use more sophisticated and nuanced datasets for training and testing, such as th
 Further expand geographic reach and types of veegatation and livestock being analyzed
 Further refine our methodoology for quantitfying carbon footprint
 Can callobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides and genetically modified crops), Syngeta (a subsidiary of China National Chemical), Corteva Argiscience (the agricultural uit of DowDuPont), satellite imagery providers, synthetic meat producers, like Beyond Meat & Impossible Foods, and universities pioneerig research in agricultural biotechnology.
+
+*Heme Analysis
+*
  
  
 Conclusion:
@@ -48,6 +53,16 @@ Helping farmers adapt to climate change is way to combat poverty. No matter how 
 
 Additional Resources & Further Study
 Curretly, much of the world's agircultural output is dependent on weather. Having a platform that ennables access to data 24/7 can help untether agriculture output to the weather, similar to how the internent enables us to do online shopping, search, communicate with friends & family, and entertain ourselves at annytime of the day. Similarly, solar roofs and storage battery systems are slowly untethering the world's dependece on the grid.
+
+A perfect solution for efficiently providing the energy for electricity is to install photovoltaic (PV) solar panels on the roof or next to the house. The house can get energy from the grid when there is no sun or inclement weather and feed energy back to the grid where this is allowed. 
+![image](https://user-images.githubusercontent.com/78511177/172438992-2bd6b716-a21a-453e-8c10-79079c606df9.png)
+Some houses are totally off the grid because connecting to the grid would be too expensive or unavailable in that area. These houses require photo voltaic (PV) panels to provide energy and batteries to store the energy for periods when there is no solar energy and/or inclement weather. When a household stores solar energy produced on site and uses that energy when solar production is less than than the energy requirements in the house, it is called “self consumption.”
+
+The house may also be connected to the grid and return excess energy to the grid when the battery is full or during peak periods of the day when the grid is overloaded. (Forbes)
+
+Currently, the energy grid is centralized ad beginning to become a an interconnected, yet decentralized system. When the power plat knows the demand for energy will be high at a certai day and time, "the system" can sed a signal to the inverters to start discharging energy to the grid. Curretly, the U.S. has a solar subsidy called net metering which is when the cost of the electric energy consumed from the grid is offset by the electric energy consumed by the renewable source. Inceitves like this could be implemented to help pivot towards clean agricultural practices. Grid parity and gird independence. 
+
+
 "Agriculture is all about weather. It’s far less connected to the overall economy. That makes its asset returns in agriculture uncorrelated with other stock prices. Investors love that for a variety of reasons we won’t go into here.
 
 But the reason for the uncorrelation is that food demand is very stable and we grow most of what we eat each year. Agriculture is a supply-driven business. Total soybean consumption, for instance, barely budged during the financial crisis, while U.S. auto sales plummeted. People have to eat." (Barron's)
