@@ -31,7 +31,7 @@ $ streamlit run app.py
 Here is a demonstration of the app:
 
 Data Sourcing & Processing
-To prototype our idea, we took timelapsed deforestation images from Google Earth Engine of Rondonia, Brazil, Nuflo de Chavez, Brazil, Toliara annd Saint Augustin, Madagascar, and Olam Farm in Nigeria. We strived for geographic diveristy and looked for changes in sustainable practices over time. 
+To prototype our idea, we took timelapsed deforestation images from Google Earth Engine of Rondonia, Brazil, Nuflo de Chavez, Brazil, Toliara annd Saint Augustin, Madagascar, Olam Farm in Nigeria . We strived for geographic diveristy and looked for changes in sustainable practices over time. 
 
 we then used a pre-trained ResNet-50 model to generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
 
@@ -40,7 +40,7 @@ Further Improvements
 Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
 Further expand geographic reach and types of veegatation and livestock being analyzed
 Further refine our methodoology for quantitfying carbon footprint
-Can callobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides ad genetically modified crops), Syngeta (a subsidiary of China National Chemical), Corteva Argiscience (the agricultural uit of DowDuPont), satellite imagery providers, and universities pioneerig research in agricultural biotechnology.
+Can callobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides and genetically modified crops), Syngeta (a subsidiary of China National Chemical), Corteva Argiscience (the agricultural uit of DowDuPont), satellite imagery providers, synthetic meat producers, like Beyond Meat & Impossible Foods, and universities pioneerig research in agricultural biotechnology.
  
  
 Conclusion:
