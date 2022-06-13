@@ -75,3 +75,6 @@ Currently, the energy grid is centralized ad beginning to become a an interconne
 
 But the reason for the uncorrelation is that food demand is very stable and we grow most of what we eat each year. Agriculture is a supply-driven business. Total soybean consumption, for instance, barely budged during the financial crisis, while U.S. auto sales plummeted. People have to eat." (Barron's)
 
+# Notebooks
+ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
+
