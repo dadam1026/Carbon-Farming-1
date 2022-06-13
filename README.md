@@ -9,9 +9,9 @@
 
 Here are two examples of a dashboard displaying carbon analytics from stakeholders to create more sustainable solution for their organization. 
 
-The first example is from Watershed:
+The first example is from Watershed. Waterhsed is a company that provides a dashboard  for corporate customers' emission analytics to measure, reduce, remove, and report its own carbbon footprint:
 
-The second example is from ClimateTrace:
+The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images and machine learning. Down the line it plans to publish wjere pollution arises from a particular facory, coal plant, an agricultural field, an animal farm and more. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations
 
 
         
