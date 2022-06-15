@@ -78,6 +78,8 @@ Helping farmers adapt to climate change is a way to combat poverty. No matter ho
 1. ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
 2. Logistic Regression Non-Deep Learning Model:
 
+# Additional Notes
+
 # License
 This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/diarrabell/Carbon-Farming/blob/main/LICENSE) 
 for more details.
