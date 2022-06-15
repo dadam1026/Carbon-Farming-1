@@ -78,3 +78,9 @@ But the reason for the uncorrelation is that food demand is very stable and we g
 # Notebooks
 ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
 
+# Further Improvements
+
+# Citations
+@article{
+
+
