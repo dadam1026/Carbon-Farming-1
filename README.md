@@ -1,7 +1,8 @@
 # Carbon Farming: A Farm-to-Table Strategy for Food & Energy Security
 ![image](https://user-images.githubusercontent.com/78511177/171748204-f95510ec-fe34-4cd7-bf20-9ce432bc7d79.png)
 
-Project by: Diarra Bell, Sakura Anning Yoshihara, and Derrick Adam
+AIPI 540 Deep Learning Applications
+Computer Vision Module Project by: Diarra Bell, Sakura Anning Yoshihara, and Derrick Adam
 
 # Motivation
 "Control oil and you control nations; control food and you control people." - Henry Kissinger
