@@ -26,20 +26,22 @@ The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to p
 
 
 
-# Getting Started
+
 
 
 
 
 Here is a demonstration of the app:
 
-Data Sourcing & Processing
-
 
 # Problem Statement
-* The objective of the project is to address the following Kaggle competition - Planet: Understanding the Amazon from Space by labeling satellite images with atmospheric conditions and various classes of land cover/land use. Stakeholders, especially farmers and those who work outdoors, are unaware of how and to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce and be more aware of one's carbon footprint 1) innovation 2) policy 3)activist 4)investing 
+* The objective of the project is to address the following Kaggle competition - Planet: Understanding the Amazon from Space by labeling satellite images with atmospheric conditions and various classes of land cover/land use. Stakeholders, especially farmers and those who work outdoors, are unaware of how and to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce and be more aware of one's carbon footprint 1) innovation 2) policy 3) activist 4)investing 
+
+# Getting Started
 
 # Project Structure
+
+# Data Sourcing & Processing
 
 # Modeling Details
 
