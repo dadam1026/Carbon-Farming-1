@@ -22,8 +22,7 @@ The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to p
 This project aims to take imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. First wemeaure the % of green land at each timestamp, 1985, 1995, 2005, 2015, and 2020 to conduct cover crop analysis. Next we measure surface roughness at each timestamp to perform conservation tillage verififcation. This monitors soil disturbance causing the soil's carbon to be released into the atmosphere. Lastly, for the geopgraphic region being analyzed, we use images of the vegetation, livestock (red meat), poultry (white meat), and seafood unique to the input area to further study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
 
 A compounding problem
-Investing in the now and the new
-Green discount instead of green premium
+
 the right outcome must be the profitable outcome to be the probable outcome
 "We don't inherit the world from our ancestors. We are borrowing it from our children."
 don't fall in either/or (the tyanny of or). need the harmony of "and"
@@ -49,6 +48,7 @@ To prototype our idea, we took timelapsed deforestation images from Google Earth
 we then used a pre-trained ResNet-50 model to generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
 
 # Problem Statement
+* The objective of the project is to address the following Kaggle competition - Planet: Understanding the Amazon from Space by labeling satellite images with atmospheric conditions and various classes of land cover/land use. Stakeholders, especially farmers and those who work outdoors, are unaware of how and to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce and be more aware of one's carbon footprint 1) innovation 2) policy 3)activist 4)investing 
 
 # Project Structure
 
