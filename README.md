@@ -1,4 +1,5 @@
 # Carbon Farming: A Farm-to-Table Strategy for Food & Energy Security
+![image](https://user-images.githubusercontent.com/78511177/173726171-2d866975-a9d4-4fa9-8b8b-2bbc7cb1c632.png)
 
 
 AIPI 540 Deep Learning Applications
