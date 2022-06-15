@@ -104,7 +104,7 @@ Further Improvements
  <br> ClimateTrace: Database to collect and share greenhouse gas emissions from anthropogenic activities to facilitate climate action
  <br> FarmBeats: Deliver internet connectivity to create precision farming to local farmers at affordale costs
  <br> John Deere: Manufactures agircultural machinery
- <br> Mosanto (acquired by Bayer): World's largest seed company & major producer of pesticides and genetically modified crops
+ <br> Monsanto (acquired by Bayer): World's largest seed company & major producer of pesticides and genetically modified crops
  <br> Syngenta (subsidiary of China National Chemical): Provider of agricultural science and technology, in particular seeds and pesticides
  <br> FarmShots (acquired by Syngenta): Uses satellite imagery analysis to help detect diseases, pests, and poor plant nutrition 
  <br> Corteva Argiscience (the agricultural unit of DowDuPont): Provides argonomic support and services to help increase farmer productivity and profitabilty
