@@ -46,7 +46,6 @@ https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-
 
 
 
-Here is a demonstration of the app:
 
 
 Problem Statement
@@ -67,6 +66,13 @@ Getting Started
 
 
         $ python3 scripts/carbon_farming.py
+
+3) Run the demo app:
+
+        $ streamlit run app.py
+        
+A demo of how the app works:
+
 
 Project Structure
 -----------------
