@@ -98,11 +98,11 @@ Model Evaluation & Results
 Further Improvements
 --------------------
 * Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel by taking imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
-        <br> 1) extract cover crop analysis 
-        <br> 2) perform conservation tillage verififcation which monitors soil disturbance causing the soil's carbon to              be released into the atmosphere. 
+        <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
+        <br> 2) perform conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere. 
         <br> 3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
 * Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
-* Further expand geographic reach and types of veegatation and livestock being analyzed
+* Further expand geographic reach and types of vegatation and livestock being analyzed
 * Further refine our methodoology for quantitfying carbon footprint
 * Collobarate with industry & academia. Examples include:
 <img width="711" alt="Screen Shot 2022-06-15 at 11 53 59 AM" src="https://user-images.githubusercontent.com/78511177/173871680-f3b0c7bf-c93f-47f5-b75d-6345a699a789.png">
