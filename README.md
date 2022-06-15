@@ -14,12 +14,11 @@ Here are two examples of a dashboard displaying carbon analytics to help organiz
 
 The first example is from Watershed. Waterhsed is a company that provides a dashboard for corporate customers' emission analytics to measure, reduce, remove, and report its own carbon footprint:
 
-The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations
+The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations:
 
 
         
         
-This project aims to take imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. First wemeaure the % of green land at each timestamp, 1985, 1995, 2005, 2015, and 2020 to conduct cover crop analysis. Next we measure surface roughness at each timestamp to perform conservation tillage verififcation. This monitors soil disturbance causing the soil's carbon to be released into the atmosphere. Lastly, for the geopgraphic region being analyzed, we use images of the vegetation, livestock (red meat), poultry (white meat), and seafood unique to the input area to further study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
 
 
 
@@ -50,40 +49,24 @@ we then used a pre-trained ResNet-50 model to generate numerical values for meas
 
 # Model Evaluation & Results
 
-Further Improvements
-Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
-Further expand geographic reach and types of veegatation and livestock being analyzed
-Further refine our methodoology for quantitfying carbon footprint
-Can callobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides and genetically modified crops), Syngeta (a subsidiary of China National Chemical), Corteva Argiscience (the agricultural uit of DowDuPont), satellite imagery providers, synthetic meat producers, like Beyond Meat & Impossible Foods, ClimateTrace, Wattime, and universities pioneering research in agricultural biotechnology.
+# Further Improvements
+* The project can go one step further by creating a data flywheel by taking imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a give image you can 
+1) extract cover crop analysis 
+2) perform conservation tillage verififcation which monitors soil disturbance causing the soil's carbon to be released into the atmosphere. 
+3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat), and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
 
-*Heme Analysis
-*
- 
- 
-Conclusion:
+* Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
+* Further expand geographic reach and types of veegatation and livestock being analyzed
+* Further refine our methodoology for quantitfying carbon footprint
+* Collobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides and genetically modified crops), Syngenta (a subsidiary of China National Chemical), FarmShots (acquired by Syngenta), Corteva Argiscience (the agricultural unit of DowDuPont), satellite imagery providers, synthetic meat producers, like Beyond Meat & Impossible Foods, ClimateTrace, Wattime, and universities pioneering research in agricultural biotechnology.
+
+# Conclusion:
 Helping farmers adapt to climate change is way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to stop mititgate climate's deleterious effects. Work done by CGIAR Climate-smart agriculture research helps smallholder farmers in the developing world. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
-
-Additional Resources & Further Study
-Curretly, much of the world's agircultural output is dependent on weather. Having a platform that ennables access to data 24/7 can help untether agriculture output to the weather, similar to how the internent enables us to do online shopping, search, communicate with friends & family, and entertain ourselves at annytime of the day. Similarly, solar roofs and storage battery systems are slowly untethering the world's dependece on the grid.
-
-A perfect solution for efficiently providing the energy for electricity is to install photovoltaic (PV) solar panels on the roof or next to the house. The house can get energy from the grid when there is no sun or inclement weather and feed energy back to the grid where this is allowed. 
-![image](https://user-images.githubusercontent.com/78511177/172438992-2bd6b716-a21a-453e-8c10-79079c606df9.png)
-Some houses are totally off the grid because connecting to the grid would be too expensive or unavailable in that area. These houses require photo voltaic (PV) panels to provide energy and batteries to store the energy for periods when there is no solar energy and/or inclement weather. When a household stores solar energy produced on site and uses that energy when solar production is less than than the energy requirements in the house, it is called “self consumption.”
-
-The house may also be connected to the grid and return excess energy to the grid when the battery is full or during peak periods of the day when the grid is overloaded. (Forbes)
-
-Currently, the energy grid is centralized ad beginning to become a an interconnected, yet decentralized system. When the power plat knows the demand for energy will be high at a certai day and time, "the system" can sed a signal to the inverters to start discharging energy to the grid. Curretly, the U.S. has a solar subsidy called net metering which is when the cost of the electric energy consumed from the grid is offset by the electric energy consumed by the renewable source. Inceitves like this could be implemented to help pivot towards clean agricultural practices. Grid parity and gird independence. 
-
-
-"Agriculture is all about weather. It’s far less connected to the overall economy. That makes its asset returns in agriculture uncorrelated with other stock prices. Investors love that for a variety of reasons we won’t go into here.
-
-But the reason for the uncorrelation is that food demand is very stable and we grow most of what we eat each year. Agriculture is a supply-driven business. Total soybean consumption, for instance, barely budged during the financial crisis, while U.S. auto sales plummeted. People have to eat." (Barron's)
 
 # Notebooks
 1. ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
 2. Logistic Regression Non-Deep Learning Model:
 
-# Further Improvements
 
 # Citations
 @article{
