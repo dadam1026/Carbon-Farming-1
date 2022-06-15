@@ -59,6 +59,11 @@ Problem Statement
 
 Getting Started
 ---------------
+1) Install the requirements to run the python files
+        $ pip install -r requirements.txt
+        
+2) Run the program 
+        $ python3 scripts/carbon_farming.py
 
 Project Structure
 -----------------
