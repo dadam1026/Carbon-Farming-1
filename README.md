@@ -10,11 +10,11 @@ Computer Vision Module Project by: Diarra Bell, Sakura Anning Yoshihara, and Der
 * Food and nature emit 14 out of 59 Gigatons of carbon, so sustainable food systems and agricultural practices are needed to adjust what we eat, how we grow our food, and even waste it, and protect nature 
 * To curate a tailored, sustainable agricultural practice youe must measure your carbon footprint, analyze your emissions, and execute on meaninful reductions
 
-Here are two examples of a dashboard displaying carbon analytics from stakeholders to create more sustainable solution for their organization. 
+Here are two examples of a dashboard displaying carbon analytics to help organizations create more sustainable solutions 
 
-The first example is from Watershed. Waterhsed is a company that provides a dashboard  for corporate customers' emission analytics to measure, reduce, remove, and report its own carbbon footprint:
+The first example is from Watershed. Waterhsed is a company that provides a dashboard for corporate customers' emission analytics to measure, reduce, remove, and report its own carbon footprint:
 
-The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images and machine learning. Down the line it plans to publish wjere pollution arises from a particular facory, coal plant, an agricultural field, an animal farm and more. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations
+The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations
 
 
         
