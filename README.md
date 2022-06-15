@@ -74,7 +74,19 @@ Finding datasets with binary classification of deforestation and non-deforestati
 * Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
 * Further expand geographic reach and types of veegatation and livestock being analyzed
 * Further refine our methodoology for quantitfying carbon footprint
-* Collobarate with larger compaines, like Watershed, FarmBeats, John Deere, Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides and genetically modified crops), Syngenta (a subsidiary of China National Chemical), FarmShots (acquired by Syngenta), Corteva Argiscience (the agricultural unit of DowDuPont), satellite imagery providers, synthetic meat producers, like Beyond Meat & Impossible Foods, ClimateTrace, Wattime, and universities pioneering research in agricultural biotechnology.
+* Collobarate with industry & academia: 
+<br> Watershed
+<br> ClimateTrace
+<br> FarmBeats
+<br> John Deere
+<br> Bayer which acquired Mosanto (the world's largest seed company & major producer of pesticides and genetically modified crops)
+<br> Syngenta (a subsidiary of China National Chemical)
+<br> FarmShots (acquired by Syngenta)
+<br> Corteva Argiscience (the agricultural unit of DowDuPont)
+<br> satellite imagery providers
+<br> synthetic meat producers: Beyond Meat & Impossible Foods
+<br> Wattime
+<br> universities pioneering research in agricultural biotechnology
 
 # Conclusion:
 Helping farmers adapt to climate change is a way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to mititgate climate's deleterious effects. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
