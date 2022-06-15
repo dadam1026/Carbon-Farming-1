@@ -48,7 +48,7 @@ Here is a demonstration of the app:
 # Project Structure
 
 # Data Sourcing & Processing
-Finding datasets with binary classification of deforestation and non-deforestation is very difficult, so the closest dataset to what we aimed to achieve is Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. There are 17 general labels including:
+Finding datasets with binary classification of deforestation and non-deforestation is very difficult, so the closest dataset to what we aimed to achieve is Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. The 17 general labels are: agriculture, artisinal_mine, bare_ground, blooming, blow_down, clear, cloudy, conventional_mine, cultivation, habitation, haze, partly_cloudy, primary, road, selective_logging, slash_burn, and water.
         
 
 # Modeling Details
