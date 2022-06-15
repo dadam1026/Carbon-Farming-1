@@ -100,6 +100,8 @@ Further Improvements
 * Further expand geographic reach and types of veegatation and livestock being analyzed
 * Further refine our methodoology for quantitfying carbon footprint
 * Collobarate with industry & academia. Examples include:
+<img width="394" alt="Screen Shot 2022-06-15 at 11 51 03 AM" src="https://user-images.githubusercontent.com/78511177/173871115-bb243777-d54a-4f90-bcfe-fba4e18e36d9.png">
+
  <br> Watershed: Software platform for running a climate program
  <br> ClimateTrace: Database to collect and share greenhouse gas emissions from anthropogenic activities to facilitate climate action
  <br> FarmBeats: Deliver internet connectivity to create precision farming to local farmers at affordale costs
