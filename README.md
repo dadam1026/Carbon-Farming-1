@@ -9,6 +9,7 @@ AIPI 540 Deep Learning Applications
 Motivation
 ----------
 "Control oil and you control nations; control food and you control people." - Henry Kissinger
+<br>
 <br> About two-thirds of those living in poverty work in agriculture.(Gates Notes) The rich and middle-income countries are the biggest contributors to climate climage, yet the poorest are the most adversely affected. The project aims to make equipping the poorest farmers with modern technology a global humanitarian effort since increasing temperatures affects these groups more than others. 
 <br>
 * As the population grows, so will the demand for food
