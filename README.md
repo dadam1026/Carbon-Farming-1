@@ -1,5 +1,5 @@
 # Carbon Farming: A Farm-to-Table Strategy for Food & Energy Security
-![image](https://user-images.githubusercontent.com/78511177/171748204-f95510ec-fe34-4cd7-bf20-9ce432bc7d79.png)
+
 
 AIPI 540 Deep Learning Applications
 Computer Vision Module Project by: Diarra Bell, Sakura Anning Yoshihara, and Derrick Adam
@@ -34,11 +34,7 @@ The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to p
 Here is a demonstration of the app:
 
 Data Sourcing & Processing
-To prototype our idea, we took timelapsed deforestation images from Google Earth Engine of Rondonia, Brazil, Nuflo de Chavez, Brazil, Toliara annd Saint Augustin, Madagascar, Olam Farm in Nigeria . We strived for geographic diveristy and looked for changes in sustainable practices over time. 
 
-*Fishery Pollution
-
-we then used a pre-trained ResNet-50 model to generate numerical values for measuring cover crop analysis, conservation tillage verififcation, and an analysis on vegetaton & livestock indigenous to the area of the inputted image. 
 
 # Problem Statement
 * The objective of the project is to address the following Kaggle competition - Planet: Understanding the Amazon from Space by labeling satellite images with atmospheric conditions and various classes of land cover/land use. Stakeholders, especially farmers and those who work outdoors, are unaware of how and to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce and be more aware of one's carbon footprint 1) innovation 2) policy 3)activist 4)investing 
