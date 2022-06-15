@@ -49,6 +49,8 @@ Finding datasets with binary classification of deforestation and non-deforestati
 # Modeling Details
 
 # Model Evaluation & Results
+<img width="610" alt="Screen Shot 2022-06-15 at 12 13 05 AM" src="https://user-images.githubusercontent.com/78511177/173735335-35c3d51d-39fe-421e-9553-15c47cf6d1fe.png">
+
 
 # Further Improvements
 * Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel by taking imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
