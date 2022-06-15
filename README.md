@@ -3,7 +3,7 @@
 
 
 AIPI 540 Deep Learning Applications
-Computer Vision Module Project by: Diarra Bell, Sakura Anning Yoshihara, and Derrick Adam
+<br> Computer Vision Module Project by: Diarra Bell, Sakura Anning Yoshihara, and Derrick Adam
 
 # Motivation
 "Control oil and you control nations; control food and you control people." - Henry Kissinger
