@@ -86,7 +86,7 @@ Finding datasets with binary classification of deforestation and non-deforestati
 <br> satellite imagery providers
 <br> synthetic meat producers: Beyond Meat & Impossible Foods
 <br> Wattime
-<br> universities pioneering research in agricultural biotechnology
+<br> Universities pioneering research in agricultural biotechnology
 
 # Conclusion:
 Helping farmers adapt to climate change is a way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to mititgate climate's deleterious effects. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
