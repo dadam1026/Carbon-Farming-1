@@ -50,7 +50,7 @@ Here is a demonstration of the app:
 <br> 1) innovation 
 <br> 2) policy 
 <br> 3) activism  
-<br> 4) investing 
+4) investing 
 
 # Getting Started
 
