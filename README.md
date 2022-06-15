@@ -14,7 +14,7 @@ Motivation
 <br>
 * As the population grows, so will the demand for food
 * Food and nature emit 14 out of 59 Gigatons of carbon, so sustainable food systems and agricultural practices are needed to adjust what we eat, how we grow our food, and even waste it, and protect nature 
-* To curate a tailored, sustainable agricultural practice youe must measure your carbon footprint, analyze your emissions, and execute on meaninful reductions
+* To curate a tailored, sustainable agricultural practice you must measure your carbon footprint, analyze your emissions, and execute on meaninful reductions
 <img width="718" alt="Screen Shot 2022-06-15 at 8 37 06 AM" src="https://user-images.githubusercontent.com/78511177/173828466-599e40a6-20a0-4cc5-9f31-ad59d3a96ea0.png">
 
 
