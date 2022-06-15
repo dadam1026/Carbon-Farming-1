@@ -68,7 +68,9 @@ Helping farmers adapt to climate change is a way to combat poverty. No matter ho
 2. Logistic Regression Non-Deep Learning Model:
 
 # License
-This project is licensed under the terms of the MIT license. See [LICENSE] (https://github.com/diarrabell/Carbon-Farming/blob/main/LICENSE) for more details.
+This project is licensed under the terms of the MIT license. See [LICENSE] 
+(/https://github.com/diarrabell/Carbon-Farming/blob/main/LICENSE) 
+for more details.
 
 
 # Citation
