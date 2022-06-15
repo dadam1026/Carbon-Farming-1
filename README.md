@@ -49,8 +49,8 @@ Here is a demonstration of the app:
 * The objective of the project is to detect deforestation risk by labeling satellite images with atmospheric conditions and various classes of land cover/land use. The porject specifically addresses Kaggle competition - Planet: Understanding the Amazon from Space. Generally, stakeholders are unaware to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce one's own carbon footprint: 
 <br> 1) innovation 
 <br> 2) policy 
-<br> 3) activism  
-4) investing 
+<br> 3) activism 
+<br> 4) investing 
 
 # Getting Started
 
