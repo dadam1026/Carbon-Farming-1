@@ -63,7 +63,9 @@ Getting Started
         
         $ pip install -r requirements.txt
         
-2) Run the program 
+2) Run the program:
+
+
         $ python3 scripts/carbon_farming.py
 
 Project Structure
