@@ -36,13 +36,15 @@ Here is a demonstration of the app:
 
 
 # Problem Statement
-* The objective of the project is to address the following Kaggle competition - Planet: Understanding the Amazon from Space by labeling satellite images with atmospheric conditions and various classes of land cover/land use. Stakeholders, especially farmers and those who work outdoors, are unaware of how and to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce and be more aware of one's own carbon footprint: 1) innovation 2) policy 3) activist 4)investing 
+* The objective of the project is to detect deforestation risk by labeling satellite images with atmospheric conditions and various classes of land cover/land use. The porject specifically addresses Kaggle competition - Planet: Understanding the Amazon from Space. Generally, stakeholders are unaware to what degree their organization is contributing to greehouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce one's own carbon footprint: 1) innovation 2) policy 3) activism and 4) investing 
 
 # Getting Started
 
 # Project Structure
 
 # Data Sourcing & Processing
+Finding datasets with binary classification of deforestation and non-deforestation is very difficult, so the closest dataset to what we aimed to achieve is Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. There are 17 general labels including:
+        
 
 # Modeling Details
 
@@ -65,13 +67,17 @@ Helping farmers adapt to climate change is a way to combat poverty. No matter ho
 1. ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
 2. Logistic Regression Non-Deep Learning Model:
 
+# License
 
-# Citations
-@article{
-  title={Detecting Deforestation from Satellite Images},
-  author={Ferreira, Andre and Bhaskar, Bhaskar},
-  journal={Towards Data Science},
-  year={2021}
+
+# Citation
+@misc{fsdl_deforestation_detection,
+  author = {Karthik Bhaskar, Andre Ferreira},
+  title = {Predicting deforestation from Satellite Images},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/karthikraja95/fsdl_deforestation_detection}}
 }
 
 
