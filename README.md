@@ -50,11 +50,10 @@ we then used a pre-trained ResNet-50 model to generate numerical values for meas
 # Model Evaluation & Results
 
 # Further Improvements
-* The project can go one step further by creating a data flywheel by taking imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a give image you can 
-1) extract cover crop analysis 
-2) perform conservation tillage verififcation which monitors soil disturbance causing the soil's carbon to be released into the atmosphere. 
-3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat), and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
-
+* Given that access to satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel by taking imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
+        1) extract cover crop analysis 
+        2) perform conservation tillage verififcation which monitors soil disturbance causing the soil's carbon to              be released into the atmosphere. 
+        3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
 * Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
 * Further expand geographic reach and types of veegatation and livestock being analyzed
 * Further refine our methodoology for quantitfying carbon footprint
