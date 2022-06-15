@@ -81,7 +81,7 @@ ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M
 # Further Improvements
 
 # Citations
-@article{salah2020cornac,
+@article{
   title={Detecting Deforestation from Satellite Images},
   author={Ferreira, Andre and Bhaskar, Bhaskar},
   journal={Towards Data Science},
