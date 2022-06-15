@@ -21,20 +21,14 @@ The second example is from ClimateTrace. ClimateTrace, like Watershed, aims to p
         
 This project aims to take imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. First wemeaure the % of green land at each timestamp, 1985, 1995, 2005, 2015, and 2020 to conduct cover crop analysis. Next we measure surface roughness at each timestamp to perform conservation tillage verififcation. This monitors soil disturbance causing the soil's carbon to be released into the atmosphere. Lastly, for the geopgraphic region being analyzed, we use images of the vegetation, livestock (red meat), poultry (white meat), and seafood unique to the input area to further study crop yield, quality, and plant resistance to abiotic and biotic stresses. 
 
-A compounding problem
-
-the right outcome must be the profitable outcome to be the probable outcome
-"We don't inherit the world from our ancestors. We are borrowing it from our children."
-don't fall in either/or (the tyanny of or). need the harmony of "and"
-take movements to create action
-4 levers to pull on:
-1) innovation 2) policy 3)activist 4)investing
 
 
 
-Getting Started
-We created a protoype for users to upload a zipped folder with an image to measure its carbon footprint. The output will be a dashboard reporting the emissions statistics and further analysis. You can run the demo app with:
-$ streamlit run app.py
+
+
+
+# Getting Started
+
 
 
 
