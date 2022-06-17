@@ -97,7 +97,14 @@ Model Evaluation & Results
 
 Future Work
 --------------------
-Here are two examples of a dashboard displaying carbon analytics to help organizations create more sustainable solutions:
+
+
+* Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
+        <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
+        <br> 2) perform conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere. 
+        <br> 3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
+      
+* Here are two examples of a dashboard displaying carbon analytics to help organizations create more sustainable solutions:
 
 - Watershed: a company that provides a dashboard for corporate customers' emission analytics to measure, reduce, remove, and report its own carbon footprint:
 
@@ -111,11 +118,7 @@ https://user-images.githubusercontent.com/78511177/173738976-b33bac38-8989-45a0-
 
 
 https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-ad88-16a7ea6f8aed.mov
-
-* Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel by taking imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
-        <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
-        <br> 2) perform conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere. 
-        <br> 3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
+<br>
 * Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
 * Further expand geographic reach and types of vegatation and livestock being analyzed
 * Further refine our methodoology for quantitfying carbon footprint
@@ -136,7 +139,8 @@ https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-
 
 Conclusion
 ----------
-Helping farmers adapt to climate change is a way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to mititgate climate's deleterious effects. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
+* Helping farmers adapt to climate change is a way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to mititgate climate's deleterious effects. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
+* It is our duty to provide technology and use data to better serve the most vulnerable populations
 
 Additional Resources
 --------------------
