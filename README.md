@@ -63,20 +63,10 @@ Problem Statement
 
 Getting Started
 ---------------
-1) Install the requirements to run the python files:
-        
-        $ pip install -r requirements.txt
-        
-2) Run the program:
+1) Run the program:
 
 
-        $ python3 scripts/carbon_farming.py
-
-3) Run the demo app:
-
-        $ streamlit run app.py
-        
-A demo of how the app works:
+        $ python run scripts/main.py
 
 
 Project Structure
@@ -89,11 +79,30 @@ Finding datasets with binary classification of deforestation and non-deforestati
 
 Modeling Details
 ----------------
+We tried two Deep Learning Approaches:
+<br>
+<br>**Approach 1 ResNet-50**:
+1) We extracted the dataset using the Kaggle API
+2) Then trained ResNet-50 model on the Kaggle data and leveraged transfer learning to generate the predictions
+
+<br>**Approach 2 CNN**:
+
+non-deep learning is not applicable becuase satellite image is very pixelated and hard to capture 
+Only neural networks are able to capture the finer details.
+
 
 Model Evaluation & Results
 ----------------------------
+Deep Learning Model 1 Results:
 <img width="610" alt="Screen Shot 2022-06-15 at 12 13 05 AM" src="https://user-images.githubusercontent.com/78511177/173735335-35c3d51d-39fe-421e-9553-15c47cf6d1fe.png">
+<br>
+<img width="400" alt="Screen Shot 2022-06-15 at 7 16 12 PM" src="https://user-images.githubusercontent.com/78511177/173957670-e79c9e14-8a53-4126-b639-edb63015b313.png">
 
+Deep Learning Model 2 Results:
+<img width="710" alt="Screen Shot 2022-06-16 at 8 25 31 PM" src="https://user-images.githubusercontent.com/78511177/174198994-49d80af6-cab6-41d5-8bbc-e28478786897.png">
+
+
+<img width="413" alt="Screen Shot 2022-06-16 at 8 18 47 PM" src="https://user-images.githubusercontent.com/78511177/174198432-e5e70a34-74ea-47f6-bb97-9b41dcd29ece.png">
 
 Further Improvements
 --------------------
@@ -126,7 +135,7 @@ Helping farmers adapt to climate change is a way to combat poverty. No matter ho
 Notebooks
 ---------
 1. ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
-2. Logistic Regression Non-Deep Learning Model:
+2. CNN Deep Learning Model: [here](https://colab.research.google.com/drive/1RKdO2bWmNe9sy4iH8REQjJfXCrdrxcrr#scrollTo=8jcxIXO1oT2p)
 
 Additional Notes
 ----------------
