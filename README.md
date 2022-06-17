@@ -87,7 +87,7 @@ Data Sourcing & Processing
 Modeling Details
 ----------------
 * We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
-* We used a Cross Entropy Loss function and mini-batch gradient descent.
+* We used a Cross Entropy Loss function and stochastic gradient descent.
 
 Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
 
@@ -100,8 +100,11 @@ Future Work
 
 
 * Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
+        <br>
         <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
-        <br> 2) perform conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere. 
+        <br>
+        <br> 2) perform conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere
+        <br>
         <br> 3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
       
 * Here are two examples of a dashboard displaying carbon analytics to help organizations create more sustainable solutions:
