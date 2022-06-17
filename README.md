@@ -117,7 +117,6 @@ https://user-images.githubusercontent.com/78511177/173738976-b33bac38-8989-45a0-
 
       
    <br> 2) ClimateTrace: like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations:
- <br>
 https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-ad88-16a7ea6f8aed.mov
 <br>
 * Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
