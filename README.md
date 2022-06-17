@@ -25,11 +25,11 @@ Problem Statement
 * Generally, stakeholders are unaware to what degree their organization is contributing to greenhouse gases. By providing data, stakeholders can better choose amongst the 4 levers they can pull on to reduce one's own carbon footprint: 
 <br> 1) innovation 
 <br>
-<br> 2) policy 
+2) policy 
+<br> 
+3) activism 
 <br>
-<br> 3) activism 
-<br>
-<br> 4) investing 
+4) investing 
 
 Getting Started
 ---------------
