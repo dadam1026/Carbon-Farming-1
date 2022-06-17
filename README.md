@@ -126,18 +126,7 @@ https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-
 * Further refine our methodoology for quantitfying carbon footprint
 * Collobarate with industry & academia. Examples include:
 <img width="711" alt="Screen Shot 2022-06-15 at 11 53 59 AM" src="https://user-images.githubusercontent.com/78511177/173871680-f3b0c7bf-c93f-47f5-b75d-6345a699a789.png">
- <br> Watershed: Software platform for running a climate program
- <br> ClimateTrace: Database to collect and share greenhouse gas emissions from anthropogenic activities to facilitate climate action
- <br> FarmBeats: Deliver internet connectivity to create precision farming to local farmers at affordale costs
- <br> John Deere: Manufactures agircultural machinery
- <br> Monsanto (acquired by Bayer): World's largest seed company & major producer of pesticides and genetically modified crops
- <br> Syngenta (subsidiary of China National Chemical): Provider of agricultural science and technology, in particular seeds and pesticides
- <br> FarmShots (acquired by Syngenta): Uses satellite imagery analysis to help detect diseases, pests, and poor plant nutrition 
- <br> Corteva Argiscience (the agricultural unit of DowDuPont): Provides argonomic support and services to help increase farmer productivity and profitabilty
- <br> Satellite Imagery Providers: Sentinel-2 Europe's Earth observation satellite
- <br> Beyond Meat & Impossible Foods: plant-based meat producers
- <br> WattTime: Environmental tech nonprofit that empowers all people, companies, policymakers, and countries to slash emissions and choose cleaner energy. 
- <br> Universities pioneering research in agricultural biotechnology: Duke, Clemson, Cornell, etc. 
+<img width="1082" alt="Screen Shot 2022-06-17 at 6 36 19 PM" src="https://user-images.githubusercontent.com/78511177/174409215-a44ff6b5-3dbe-4c34-84a7-e6fbdd5b6571.png">
 
 Conclusion
 ----------
