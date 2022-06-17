@@ -76,15 +76,19 @@ Project Structure
 
 Data Sourcing & Processing
 --------------------------
-Finding datasets with binary classification of deforestation and non-deforestation is very difficult, so the closest dataset to what we aimed to achieve is Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. The 17 general labels are: agriculture, artisinal_mine, bare_ground, blooming, blow_down, clear, cloudy, conventional_mine, cultivation, habitation, haze, partly_cloudy, primary, road, selective_logging, slash_burn, and water.
+* Our training dataset is taken from Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. The 17 general labels are: agriculture, artisinal_mine, bare_ground, blooming, blow_down, clear, cloudy, conventional_mine, cultivation, habitation, haze, partly_cloudy, primary, road, selective_logging, slash_burn, and water.
+* We took the follwing steps to process this data to prepare it for modeling:
+        1) We first selected the 7 labels we believe are most indicative of deforestation -  ['agriculture', 'slash-burn', 'habitation', 'selective-logging',  'artisinal_mine', 'conventional_mine', 'cultivation'].
+        2) We then created two classes - 'deforested' and 'conserved'. An image is classified as 'deforested' when any of the 7 deforestation labels are present. Otherwise it is classified as conserved. 
+        3) We split the dataset into an 80-20 training-validation split.
+        4) We then placed the images in their appropriate class directories.  
         
 
 Modeling Details
 ----------------
-1) We split the downloaded Amazon dataset into a 80-20 training-validation split. 
-2) We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
+1) We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
 
-* Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
+        * Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
 
 Model Evaluation & Results
 ----------------------------
