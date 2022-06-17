@@ -78,7 +78,7 @@ Model Evaluation & Results
 ----------------------------
 
 
-Further Work
+Future Work
 --------------------
 Here are two examples of a dashboard displaying carbon analytics to help organizations create more sustainable solutions:
 
