@@ -98,7 +98,7 @@ Future Work
 --------------------
 
 
-* Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can: 
+* Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe as input into a Streamlit app. The output is a dashboard of emissions analytics for any user, especially farmers and fisherman, with low-cost internet access to quanitfy their own carbon footprint. Current products are only for corporate or government agenices. Some examples of data the could be collected from a given image are: 
         <br>
         <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
         <br>
