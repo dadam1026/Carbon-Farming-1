@@ -102,9 +102,9 @@ Future Work
 
 * Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe as input into a Streamlit app. The output is a dashboard of emissions analytics for any user, especially farmers and fisherman, with low-cost internet access to quanitfy their own carbon footprint. Current products are only for corporate or government agenices. Some examples of data the could be collected from a given image are: 
         <br>
-        <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
+        <br> 1) cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
         <br>
-        <br> 2) perform conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere
+        <br> 2) conservation tillage verification - monitor soil disturbance causing the soil's carbon to              be released into the atmosphere
         <br>
         <br> 3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
       
