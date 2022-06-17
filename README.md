@@ -98,7 +98,7 @@ Future Work
 --------------------
 
 
-* Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can 
+* Given that access to labeled satellite imagery is very limited to train and test a model, with access to a robust database, the project can go one step further by creating a data flywheel that takes imagery from areas undergoing deforestation and water pollution across the globe to measure its carbon footprint. From a given image you can: 
         <br>
         <br> 1) extract cover crop analysis - utilization of satellite imagery to determine how many months a field remains green throughout the year
         <br>
@@ -107,15 +107,15 @@ Future Work
         <br> 3) from the geopgraphic region, you can analyze the vegetation, livestock (red meat), poultry (white meat),            and seafood unique to the area to study crop yield, quality, and plant resistance to abiotic and biotic              stresses. 
       
 * Here are two examples of a dashboard displaying carbon analytics to help organizations create more sustainable solutions:
-
-- Watershed: a company that provides a dashboard for corporate customers' emission analytics to measure, reduce, remove, and report its own carbon footprint:
+        <br>
+        <br> 1) Watershed: a company that provides a dashboard for corporate customers' emission analytics to measure, reduce, remove, and report its own carbon footprint:
 
 
 https://user-images.githubusercontent.com/78511177/173738976-b33bac38-8989-45a0-a12c-450516b2a8e3.mov
 
-
-
-- ClimateTrace: like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations:
+        
+        <br>
+        <br> 2) ClimateTrace: like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations:
 
 
 
