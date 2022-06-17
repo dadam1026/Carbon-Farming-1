@@ -62,9 +62,9 @@ Data Sourcing & Processing
 * Our training dataset is taken from Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. The 17 general labels are: agriculture, artisinal_mine, bare_ground, blooming, blow_down, clear, cloudy, conventional_mine, cultivation, habitation, haze, partly_cloudy, primary, road, selective_logging, slash_burn, and water.
 * The following steps were done to process and prepare the data for modeling:
 
-<br>  1) Select the 7 labels most indicative of deforestation - agriculture, slash-burn, habitation, selective-logging, artisinal_mine, conventional_mine, cultivation
-<br>  2) Create two classes - 'deforested' and 'conserved'. An image is classified as 'deforested' when any of the 7 deforestation labels are present. Otherwise it is classified as conserved
-<br>  3) Split the dataset into an 80-20 training-validation split
+<br>  1) Select the 7 labels most indicative of deforestation - agriculture, slash-burn, habitation, selective-logging, artisinal_mine, conventional_mine, cultivation <br>
+<br>  2) Create two classes - 'deforested' and 'conserved'. An image is classified as 'deforested' when any of the 7 deforestation labels are present. Otherwise it is classified as conserved <br>
+<br>  3) Split the dataset into an 80-20 training-validation split <br>
 <br>  4) Place the images in their appropriate class directories 
 
 
