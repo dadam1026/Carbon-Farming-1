@@ -63,14 +63,11 @@ Problem Statement
 
 Getting Started
 ---------------
-1) Run the program:
-
-
-        $ python run scripts/main.py
 
 
 Project Structure
 -----------------
+
 
 Data Sourcing & Processing
 --------------------------
