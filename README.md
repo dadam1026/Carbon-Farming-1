@@ -63,6 +63,7 @@ Problem Statement
 
 Getting Started
 ---------------
+<br>**Deep Learning Approach 1 ResNet-18**:
 * This project requires runs on Google Colab, and requires a Kaggle account.
 * Prior to running main.ipynb, set up the Kaggle API and download kaggle.json follwing these instructions: https://github.com/Kaggle/kaggle-api
 
@@ -70,9 +71,17 @@ Getting Started
 
 * Upload kaggle.json to the notebook when prompted.
 
+<br>**Deep Learning Approach 1 ResNet-50**:
+
+1) Run the program:
+
+
+        $ python run scripts/main.py
+
 Project Structure
 -----------------
-* Our training dataset is large, >40,000 images. Therefore, in lieu of downloading the entire dataset on to GitHub/project direcotry , we decided to download them at runtime to Colab. 
+<br>**Deep Learning Approach 1 ResNet-18**:
+* Our training dataset is large, >40,000 images. Therefore, in lieu of downloading the entire dataset on to GitHub/project directory , we decided to download them at runtime to Colab. 
 * Therefore all of our setup occurs in the main.ipynb notebook, instead of a setup python script.
 
 Data Sourcing & Processing
