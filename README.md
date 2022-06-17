@@ -1,4 +1,4 @@
-# Carbon Farming: A Farm-to-Table Strategy for Food & Energy Security
+# Analyzing the Effects of Agriculture on Deforestation for a Better Farm-to-Table Strategy
 ![image](https://user-images.githubusercontent.com/78511177/173726171-2d866975-a9d4-4fa9-8b8b-2bbc7cb1c632.png)
 
 
