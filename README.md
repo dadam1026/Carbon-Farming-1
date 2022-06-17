@@ -131,8 +131,11 @@ https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-
 
 Conclusion
 ----------
-* Helping farmers adapt to climate change is a way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to mitigate climate's deleterious effects. About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families. A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. (Gates Notes)
+* Helping farmers adapt to climate change is a way to combat poverty. No matter how small or large our contribution is to the cleantech revolution, we all must strive to mitigate climate's deleterious effects
+* About two-thirds of those living in poverty work in agriculture, often relying on the food they grow to feed their families
+* A warmer world will be problematic for relatively well-off farmers in America and Europe, but potentially deadly for low-income farmers in Africa and Asia. 
 * It is our duty to provide technology and analytics to better serve the most vulnerable populations
+Source: Gates Notes
 
 Additional Resources
 --------------------
