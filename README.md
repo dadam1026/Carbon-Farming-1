@@ -86,10 +86,9 @@ Data Sourcing & Processing
         
 Modeling Details
 ----------------
-* We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
-* We used a Cross Entropy Loss function and stochastic gradient descent.
-
-Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
+* Used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
+* Used a Cross Entropy Loss function and stochastic gradient descent
+* Transfer learning on the ResNet-18 model to train our data and validate on the validation set achieved a training accuracy of 0.8905 and a validation     accuracy of 0.8797.
 
 Model Evaluation & Results
 ----------------------------
