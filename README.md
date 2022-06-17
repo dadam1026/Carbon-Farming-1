@@ -63,11 +63,16 @@ Problem Statement
 
 Getting Started
 ---------------
+* This project requires runs on Google Colab, and requires a Kaggle account.
+* Prior to running main.ipynb, set up the Kaggle API and download kaggle.json follwing these instructions: https://github.com/Kaggle/kaggle-api
 
+* Run main.ipynb on Colab. 
+
+* Upload kaggle.json to the notebook when prompted.
 
 Project Structure
 -----------------
-
+* Our training dataset is large, >40,000 images. Therefore, in lieu of downloading the entire dataset on to GitHub/project direcotry , we decided to download them at runtime to Colab. 
 
 Data Sourcing & Processing
 --------------------------
@@ -76,30 +81,14 @@ Finding datasets with binary classification of deforestation and non-deforestati
 
 Modeling Details
 ----------------
-We tried two Deep Learning Approaches:
-<br>
-<br>**Approach 1 ResNet-50**:
-1) We extracted the dataset using the Kaggle API
-2) Then trained ResNet-50 model on the Kaggle data and leveraged transfer learning to generate the predictions
+1) We split the downloaded Amazon dataset into a 80-20 training-validation split. 
+2) We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
 
-<br>**Approach 2 CNN**:
-
-non-deep learning is not applicable becuase satellite image is very pixelated and hard to capture 
-Only neural networks are able to capture the finer details.
-
+* Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
 
 Model Evaluation & Results
 ----------------------------
-Deep Learning Model 1 Results:
-<img width="610" alt="Screen Shot 2022-06-15 at 12 13 05 AM" src="https://user-images.githubusercontent.com/78511177/173735335-35c3d51d-39fe-421e-9553-15c47cf6d1fe.png">
-<br>
-<img width="400" alt="Screen Shot 2022-06-15 at 7 16 12 PM" src="https://user-images.githubusercontent.com/78511177/173957670-e79c9e14-8a53-4126-b639-edb63015b313.png">
 
-Deep Learning Model 2 Results:
-<img width="710" alt="Screen Shot 2022-06-16 at 8 25 31 PM" src="https://user-images.githubusercontent.com/78511177/174198994-49d80af6-cab6-41d5-8bbc-e28478786897.png">
-
-
-<img width="413" alt="Screen Shot 2022-06-16 at 8 18 47 PM" src="https://user-images.githubusercontent.com/78511177/174198432-e5e70a34-74ea-47f6-bb97-9b41dcd29ece.png">
 
 Further Improvements
 --------------------
