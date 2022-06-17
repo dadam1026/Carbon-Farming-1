@@ -144,6 +144,7 @@ Conclusion
 
 Additional Resources
 --------------------
+* 
 
 Notebooks
 ---------
