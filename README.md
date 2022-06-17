@@ -125,7 +125,7 @@ https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-
 
 * Use more sophisticated and nuanced datasets for training and testing, such as those from NASA
 * Further expand geographic reach and types of vegatation and livestock being analyzed
-* Further refine our methodoology for quantitfying carbon footprint
+* Further refine our methodology for quantitfying carbon footprint
 * Collobarate with industry & academia. Examples include:
 <img width="711" alt="Screen Shot 2022-06-15 at 11 53 59 AM" src="https://user-images.githubusercontent.com/78511177/173871680-f3b0c7bf-c93f-47f5-b75d-6345a699a789.png">
 
