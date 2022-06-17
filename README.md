@@ -123,7 +123,7 @@ Helping farmers adapt to climate change is a way to combat poverty. No matter ho
 
 Notebooks
 ---------
-1. ResNet-18 Deep Learning Model: [here]
+1. ResNet-18 Deep Learning Model: [here](https://colab.research.google.com/drive/1RKdO2bWmNe9sy4iH8REQjJfXCrdrxcrr#scrollTo=bRppvh0FRklm)
 2. ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
 
 
