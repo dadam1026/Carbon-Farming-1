@@ -60,10 +60,10 @@ Project Structure
 * We use a deep learning approach: ResNet18 model with PyTorch DataLoaders
 * We use a pretrained ResNet-18 model, and add our deforestation labels in the fully connected layer.
 * Our project is structured as follows:
-**Main.ipynb** - Main notebook file to be run on colab. Requires GPU.
-**Data (colab)** - Since our training dataset is large, we create the data directory in Colab at runtime. This contains our training and validation sets.
-**Test-data** - Contains the screenshots as test data 
-**models/resnet18.pt**  - we saved the full trained model.
+* **Main.ipynb** - Main notebook file to be run on colab. Requires GPU.
+* **Data (colab)** - Since our training dataset is large, we create the data directory in Colab at runtime. This contains our training and validation sets.
+* **Test-data** - Contains the screenshots as test data 
+* **models/resnet18.pt**  - we saved the full trained model.
 * Since we decided to use Colab Pro to access GPU for our model, our project can be run entirely from the main.ibynb without the use of any scripts.
 
 
