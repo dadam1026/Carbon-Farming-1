@@ -94,7 +94,8 @@ We screenshot several images from the same site over a period of 20-30 years, in
         
 Modeling Details
 ----------------
-We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
+* We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
+* We used a Cross Entropy Loss function and stochastic gradient descent.
 
 Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
 
