@@ -113,9 +113,8 @@ Future Work
 
 https://user-images.githubusercontent.com/78511177/173738976-b33bac38-8989-45a0-a12c-450516b2a8e3.mov
 
-        
-        <br>
-        <br> 2) ClimateTrace: like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations:
+      
+   <br> 2) ClimateTrace: like Watershed, aims to provide radical transaprency for global emissions by helping to detect where carbon pollution is coming from by country and by industry using satellite images. The purpose is to create a a global inventory of emissions to help policymakers, industry operators and consumers unknowingly investing in high-polluting organizations:
 
 
 
@@ -126,7 +125,7 @@ https://user-images.githubusercontent.com/78511177/173741059-b3f26f63-37fd-4fab-
 * Further refine our methodoology for quantitfying carbon footprint
 * Collobarate with industry & academia. Examples include:
 <img width="711" alt="Screen Shot 2022-06-15 at 11 53 59 AM" src="https://user-images.githubusercontent.com/78511177/173871680-f3b0c7bf-c93f-47f5-b75d-6345a699a789.png">
-<img width="1082" alt="Screen Shot 2022-06-17 at 6 36 19 PM" src="https://user-images.githubusercontent.com/78511177/174409215-a44ff6b5-3dbe-4c34-84a7-e6fbdd5b6571.png">
+
 
 Conclusion
 ----------
@@ -135,7 +134,9 @@ Conclusion
 
 Additional Resources
 --------------------
-* 
+* Gates Notes
+* How to Avoid a Climate Disaster by Bill Gates
+* Speed and Scale by John Doerr & Ryan Panchadsaram
 
 Notebooks
 ---------
