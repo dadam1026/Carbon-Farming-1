@@ -46,9 +46,10 @@ Getting Started
 
 Project Structure
 -----------------
-<br>**Deep Learning Approach 1 ResNet-18**:
+<br>**Deep Learning Approach 1 & 2**:
 * Our training dataset is large, >40,000 images. Therefore, in lieu of downloading the entire dataset on to GitHub/project directory , we decided to download them at runtime to Colab. 
-* Therefore all of our setup occurs in the main.ipynb notebook, instead of a setup python script.
+<br>**Deep Learning Approach 1 ResNet-18**:
+* Setup occurs in the main.ipynb notebook instead of a setup python script
 
 Data Sourcing & Processing
 --------------------------
