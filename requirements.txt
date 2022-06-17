@@ -1,1 +1,13 @@
-/* File to document dependencies */
+os
+numpy
+pandas
+torchvision
+torch
+shutils
+torchsummary
+time
+copy
+sklearn.model_selection
+sklearn.preprocessing
+matplotlib
+pathlib 
