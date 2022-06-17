@@ -71,7 +71,7 @@ Getting Started
 
 * Upload kaggle.json to the notebook when prompted.
 
-<br>**Deep Learning Approach 1 ResNet-50**:
+<br>**Deep Learning Approach 2 ResNet-50**:
 
 1) Run the program:
 
