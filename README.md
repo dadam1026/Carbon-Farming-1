@@ -66,29 +66,37 @@ Getting Started
 * This project requires runs on Google Colab, and requires a Kaggle account.
 * Prior to running main.ipynb, set up the Kaggle API and download kaggle.json follwing these instructions: https://github.com/Kaggle/kaggle-api
 
-* Run main.ipynb on Colab. 
+* Run main.ipynb on Colab, using GPU. 
 
 * Upload kaggle.json to the notebook when prompted.
 
 Project Structure
 -----------------
 * Our training dataset is large, >40,000 images. Therefore, in lieu of downloading the entire dataset on to GitHub/project direcotry , we decided to download them at runtime to Colab. 
+* 
 
 Data Sourcing & Processing
 --------------------------
+#### Training Dataset
 * Our training dataset is taken from Kaggle's Understanding the Amazon from Space. It is a multilabel dataset to guage human impact in the Amazon. The 17 general labels are: agriculture, artisinal_mine, bare_ground, blooming, blow_down, clear, cloudy, conventional_mine, cultivation, habitation, haze, partly_cloudy, primary, road, selective_logging, slash_burn, and water.
 * We took the follwing steps to process this data to prepare it for modeling:
-        1) We first selected the 7 labels we believe are most indicative of deforestation -  ['agriculture', 'slash-burn', 'habitation', 'selective-logging',  'artisinal_mine', 'conventional_mine', 'cultivation'].
-        2) We then created two classes - 'deforested' and 'conserved'. An image is classified as 'deforested' when any of the 7 deforestation labels are present. Otherwise it is classified as conserved. 
-        3) We split the dataset into an 80-20 training-validation split.
-        4) We then placed the images in their appropriate class directories.  
-        
 
+1) We first selected the 7 labels we believe are most indicative of deforestation - agriculture, slash-burn, habitation, selective-logging, artisinal_mine, conventional_mine, cultivation.
+2) We then created two classes - 'deforested' and 'conserved'. An image is classified as 'deforested' when any of the 7 deforestation labels are present. Otherwise it is classified as conserved. 
+3)  We split the dataset into an 80-20 training-validation split.
+4) We then placed the images in their appropriate class directories.  
+
+
+#### Test Dataset
+Satellite images collected from Google Earth Engine, of three natural sites where deforestation has occurred - Nuflo de Chavez, Brazil, Rondonia, Brazil, and Toliara and Saint Augustin, Madagascar.
+We screenshot several images from the same site over a period of 20-30 years, in order to see how the area has deforested over time.
+
+        
 Modeling Details
 ----------------
 1) We used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
 
-        * Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
+Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797.
 
 Model Evaluation & Results
 ----------------------------
@@ -124,11 +132,8 @@ Helping farmers adapt to climate change is a way to combat poverty. No matter ho
 
 Notebooks
 ---------
-1. ResNet-50 Deep Learning Model: [here](https://colab.research.google.com/drive/1M9Y7eJZacFHujo8vmwYcCdr3JKlE4G1Q#scrollTo=M2r5Wun4lHXv)
-2. CNN Deep Learning Model: [here](https://colab.research.google.com/drive/1RKdO2bWmNe9sy4iH8REQjJfXCrdrxcrr#scrollTo=8jcxIXO1oT2p)
+1. main.ipynb
 
-Additional Notes
-----------------
 
 License
 -------
