@@ -39,7 +39,9 @@ Getting Started
 * Upload kaggle.json to the notebook when prompted
 
 <br>**Deep Learning Approach 2 ResNet-50**:
-Source: 
+<br> Source: FSDL Deforestation Detection
+[here](https://github.com/karthikraja95/fsdl_deforestation_detection)
+                
 
 1) Run the program:
 
