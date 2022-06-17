@@ -92,7 +92,9 @@ Modeling Details
 
 Model Evaluation & Results
 ----------------------------
-
+After training the model, we ran the test dataset through our trained model, and we get two outputs for each image:
+* probs: the probability that the image is deforested or conserved
+* preds: binary classification - 0 for no deforestation detected. 
 
 Future Work
 --------------------
