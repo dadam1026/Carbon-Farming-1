@@ -157,6 +157,7 @@ Source: Gates Notes
 
 Additional Resources
 --------------------
+* Corresponding Slide Deck: [here](https://docs.google.com/presentation/d/1dcHQrYvYNrGFTLee10DFiSSXRb80HINNY3_Cm4s7QXo/edit#slide=id.g1335224e08e_2_20)
 * Gates Notes
 * How to Avoid a Climate Disaster by Bill Gates
 * Speed and Scale by John Doerr & Ryan Panchadsaram
