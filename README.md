@@ -80,15 +80,23 @@ Data Sourcing & Processing
 
 
 #### Test Dataset
-* Satellite images collected from Google Earth Engine of three naturally deforested areas were used - Nuflo de Chavez, Brazil, Rondonia, Brazil, and Toliara and Saint Augustin, Madagascar.
+* Satellite images collected from Google Earth Engine of three naturally deforested areas were used - Nuflo de Chavez, Brazil, Rondonia, Brazil, and Toliara and Saint Augustin, Madagascar
 * Timelapsed images of these locations were taken from 1985, 1990, 1995, 2000, 2005, 2010, 2015, and 2020 to see how the area has deforested over time
 
         
 Modeling Details
 ----------------
-* Used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs. 
+* Used a **ResNet-18** pretrained model to train the training data, batch size = 128, over 9 epochs
 * Used a Cross Entropy Loss function and stochastic gradient descent
-* Transfer learning on the ResNet-18 model to train our data and validate on the validation set achieved a training accuracy of 0.8905 and a validation     accuracy of 0.8797.
+* Transfer learning on the ResNet-18 model to train our data and validate on the validation set achieved a training accuracy of 0.8905 and a validation     accuracy of 0.8797
+
+Non-DL Discussion
+---------------
+* Non-DL Methods, such as, Logistic Regression assume linearity between the dependent variable and the independent variables
+* Linearly separable data is rarely found in real-world scenarios
+* Non-deep learning is not applicable for this project because satellite images are very pixelated and hard to fully capture 
+* Neural networks are more capable of capturing finer details needed for analyzing carbon emissions for example
+
 
 Model Evaluation & Results
 ----------------------------
