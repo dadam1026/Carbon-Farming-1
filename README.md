@@ -102,7 +102,15 @@ Model Evaluation & Results
 ----------------------------
 After training the model, we ran the test dataset through our trained model, and we get two outputs for each image:
 * probs: the probability that the image is deforested or conserved
-* preds: binary classification - 0 for no deforestation detected. 
+* preds: binary classification - 0 for no deforestation detected
+
+Results on Training Data:
+Using transfer learning on the Resnet-18 model to train our data and validate on the validation set, we achieved a training accuracy of 0.8905 and a validation accuracy of 0.8797
+
+<img width="629" alt="Screen Shot 2022-06-17 at 8 17 15 PM" src="https://user-images.githubusercontent.com/78511177/174414612-cffb8d76-5d2c-410a-8b63-b9dbdcb5748b.png">
+
+Results on Test Data:
+<img width="946" alt="Screen Shot 2022-06-17 at 8 19 23 PM" src="https://user-images.githubusercontent.com/78511177/174414700-9b87963c-514a-429e-84df-74fd6eb93cb7.png">
 
 Future Work
 --------------------
