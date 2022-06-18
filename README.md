@@ -159,6 +159,7 @@ Additional Resources
 * Gates Notes
 * How to Avoid a Climate Disaster by Bill Gates
 * Speed and Scale by John Doerr & Ryan Panchadsaram
+* Climate TRACE/Google/Sentinel-2 Geo-Spatial Classification Model: [here](https://colab.research.google.com/github/GoogleCloudPlatform/python-docs-samples/blob/main/people-and-planet-ai/geospatial-classification/README.ipynb#scrollTo=3547aec6)
 
 Notebooks
 ---------
